@@ -3,4 +3,8 @@ Taro todo project, use TypeScript Taro Redux Hook.
 
 # 安装运行
 install: `yarn`
+
 run: `yarn dev:h5`
+
+#屏幕截图
+![Screen capture](./screen.png)

@@ -8,5 +8,5 @@ install: `yarn`
 
 run: `yarn dev:h5`
 
-#屏幕截图
+# 屏幕截图
 ![Screen capture](./screen.png)
